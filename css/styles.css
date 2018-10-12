@@ -6,12 +6,22 @@ h1 {
   text-align: center;
 }
 
+.github {
+  margin: 50px;
+  padding: 10px;
+  background-color: red;
+}
+
+#two {
+  margin: 100px:
+}
+
 #title {
   padding: 50px;
 }
 
 #caption {
-  padding: 10px; 
+  padding: 10px;
   text-align: center;
   float: center;
 }
