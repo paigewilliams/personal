@@ -1,6 +1,6 @@
 # Paige's Portfolio Landing Paige
 
-#### An exercise in HTML, CSS and Bootstrap, October 12th, 2018
+#### An exercise in HTML, CSS and Bootstrap; October 12th, 2018
 
 #### By Paige Williams
 
@@ -36,11 +36,11 @@ If you run into any issues please contact Paige Williams at paw145@humboldt.edu
 
 - [x] The project repo contains a README that includes: author name, project name, description, setup instructions, link to GitHub Pages, and copyright info.
 
-- [ ] Site is successfully deployed to GitHub pages.
+- [x] Site is successfully deployed to GitHub pages.
 
 - [x] Project is in a polished, portfolio-quality state.
 
-- [ ] Required content was in place by the Friday deadline.
+- [x] Required content was in place by the Friday deadline.
 
 - [x] Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology
 
