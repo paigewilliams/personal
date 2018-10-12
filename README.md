@@ -10,7 +10,7 @@
 
 ## Setup/Installation Requirements
 
-  {insert github pages link}
+  https://paigewilliams.github.io/personal/
 
 ## Known Bugs
 
