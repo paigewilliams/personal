@@ -1,5 +1,6 @@
 .img {
   float: right;
+  padding: 70px;
 }
 
 h1 {
@@ -7,9 +8,10 @@ h1 {
 }
 
 .github {
-  margin: 50px;
-  padding: 10px;
-  background-color: red;
+  margin: 20px;
+  padding: 30px;
+  background-color: #EBE1DF;
+  border: 4px dashed #BCB4B2;
 }
 
 #two {
