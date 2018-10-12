@@ -1,5 +1,5 @@
 body {
-  background-color: #E3DFC2;
+  background-color: #ff8c3b;
 }
 
 h1 {
@@ -8,9 +8,18 @@ h1 {
 }
 
 .img {
-  float: right;
-  padding: 200px;
-  margin: 200px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.panel-orange {
+  border-color: #ff6900
+}
+
+.panel-orange > .panel-heading {
+  color: white;
+  background-color: #ff6900;
+  border-color: #ff6900;
 }
 
 #projects {
