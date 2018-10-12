@@ -11,6 +11,7 @@ h1 {
 .img {
   padding: 10px;
   border-radius: 20px;
+  float: left;
 }
 
 .panel-orange {
@@ -24,7 +25,7 @@ h1 {
 }
 
 .progress-bar-orange {
-  background-color: #b14900;
+  background-color: #ffae76;
 }
 
 #projects {
