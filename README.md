@@ -18,7 +18,7 @@
 
 ## Support and Contact Details
 
-If you run into any issues please contact Paige Williams at paw145@humboldt.education
+If you run into any issues please contact Paige Williams at paw145@humboldt.edu
 
 ## Technologies used
 
@@ -26,7 +26,7 @@ If you run into any issues please contact Paige Williams at paw145@humboldt.educ
 * CSS
 * Bootstrap
 
-#### Objectives
+## Objectives
 
 - [x] The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
 
@@ -34,7 +34,7 @@ If you run into any issues please contact Paige Williams at paw145@humboldt.educ
 
 - [x] Commits are made regularly with clear messages that finish the phrase "It will…"
 
-- [ ] The project repo contains a README that includes: author name, project name, description, setup instructions, link to GitHub Pages, and copyright info.
+- [x] The project repo contains a README that includes: author name, project name, description, setup instructions, link to GitHub Pages, and copyright info.
 
 - [ ] Site is successfully deployed to GitHub pages.
 
