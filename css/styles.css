@@ -7,11 +7,12 @@ h1 {
   text-align: center;
 }
 
-.github {
-  margin: 20px;
-  padding: 30px;
-  background-color: #EBE1DF;
-  border: 4px dashed #BCB4B2;
+.well {
+  margin: 30px;
+}
+
+#welcome {
+  text-align: left;
 }
 
 #two {
