@@ -1,0 +1,17 @@
+.img {
+  float: right;
+}
+
+h1 {
+  text-align: center;
+}
+
+#title {
+  padding: 50px;
+}
+
+#caption {
+  padding: 10px; 
+  text-align: center;
+  float: center;
+}
