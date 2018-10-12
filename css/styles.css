@@ -1,14 +1,21 @@
-.img {
-  float: right;
-  padding: 70px;
+body {
+  background-color: #EBE1DF;
 }
 
 h1 {
   text-align: center;
+  font-family:
 }
 
-.well {
+.img {
+  float: right;
+  padding: 200px;
+  margin: 200px;
+}
+
+.panel-danger {
   margin: 30px;
+  padding: 20px;
 }
 
 #welcome {
