@@ -1,5 +1,5 @@
 body {
-  background-color: #EBE1DF;
+  background-color: #E3DFC2;
 }
 
 h1 {
@@ -13,9 +13,8 @@ h1 {
   margin: 200px;
 }
 
-.panel-danger {
-  margin: 30px;
-  padding: 20px;
+#projects {
+  margin: 20px;
 }
 
 #welcome {
